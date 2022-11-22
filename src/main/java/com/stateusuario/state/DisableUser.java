@@ -1,4 +1,4 @@
-package com.stateusuario.status;
+package com.stateusuario.state;
 
 import com.stateusuario.User;
 

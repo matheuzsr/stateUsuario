@@ -4,8 +4,8 @@
  */
 package com.stateusuario;
 
-import com.stateusuario.status.DisableUser;
-import com.stateusuario.status.StateUser;
+import com.stateusuario.state.DisableUser;
+import com.stateusuario.state.StateUser;
 
 /**
  *

@@ -4,8 +4,6 @@
  */
 package com.stateusuario;
 
-import com.stateusuario.status.StateUser;
-
 /**
  *
  * @author matheus-ufes
